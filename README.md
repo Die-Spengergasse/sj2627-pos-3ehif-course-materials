@@ -40,3 +40,7 @@ There are no sample solutions. Ask in class if you get stuck.
 | Chapter 2 · Streams: filter, map, flatMap, reduce | filter, map, flatMap, reduce: OrderAnalysis | `OrderAnalysis` |
 | Chapter 2 · Collectors | Collectors: SalesReport | `SalesReport` |
 | Chapter 2 · Collectors | flatMap and Collectors: WordFrequency (bonus) | `WordFrequency` |
+| Chapter 3 · JUnit & AssertJ | JUnit & AssertJ: ShoppingCart | `ShoppingCart` |
+| Chapter 3 · UML Class Diagrams | UML to Java: Library | `Library` |
+| Chapter 3 · TDD & FIRST | TDD: StringCalculator | `StringCalculator` |
+| Chapter 3 · Good Code Style | Rich Domain: Recipe | `Recipe` |

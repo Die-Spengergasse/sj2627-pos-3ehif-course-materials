@@ -14,3 +14,4 @@ dependencyResolutionManagement {
 
 include("modern-java")
 include("streams")
+include("testing-design")
